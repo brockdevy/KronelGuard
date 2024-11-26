@@ -2,11 +2,11 @@
 
 ### 1. Introducción
 
-Estos Términos de Servicio regulan el uso de Kronel Guard en la plataforma de Discord. Al usar el bot, usted acepta estos términos en su totalidad. Si no está de acuerdo con alguna parte de estos términos. no debe usar el bot.
+Estos Términos de Servicio regulan el uso de **Kronel Guard** en la plataforma de Discord. Al usar el bot, usted acepta estos términos en su totalidad. Si no está de acuerdo con alguna parte de estos términos. no debe usar el bot.
 
 ### 2. Descripción del Servicio
 
-Kronel Guard ofrece funciones de moderación, creación de embeds, y características premium que requieren suscripciones mensuales o anuales. Las funciones del bot están sujetas a cambios sin previo aviso para mejorar el servicio o cumplir con nuevas regulaciones.
+**Kronel Guard** ofrece funciones de moderación, creación de embeds, y características premium que requieren suscripciones mensuales o anuales. Las funciones del bot están sujetas a cambios sin previo aviso para mejorar el servicio o cumplir con nuevas regulaciones.
 
 ### 3. Requisitos de Uso
 
@@ -42,4 +42,6 @@ Podemos actualizar estos Términos de Servicio de vez en cuando. Cualquier cambi
 
 ### 8. Contacto
 
-Si tiene alguna pregunta sobre estos Términos de Servicio, puede contactarnos a través de [detalles de contacto o enlace al servidor de soporte de Discord](https://discord.gg/NFNYvYegUQ).
+Si tiene alguna pregunta sobre estos Términos de Servicio, puede contactarnos a través de [el servidor de soporte de Discord](https://discord.gg/NFNYvYegUQ).
+
+[© brckstudios 2024](https://discord.gg/NFNYvYegUQ)
